@@ -1,4 +1,4 @@
-```markdown
+markdown
 # Application in a Problem
 
 We are trying to solve the classic Inverted Pendulum control problem.  
