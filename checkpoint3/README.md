@@ -13,8 +13,6 @@ The code given involves a lot of python and ML concepts,
 ChatGPT is your best friend if you need to understand what
 is going on in the code.
 
-| Horizontal line | `___` |
-
 # Resources
 
 -📚[Deep Deterministic Policy Gradient example](https://keras.io/examples/rl/ddpg_pendulum/)
