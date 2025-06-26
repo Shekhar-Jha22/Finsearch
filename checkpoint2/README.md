@@ -1,5 +1,5 @@
-INTRO TO SOME
-USEFUL ALGORITHMS
+# INTRO TO SOME USEFUL ALGORITHMS
+
 There are various RL and DL algorithms such as:
 Q-Learning, Deep Q-Network (DQN), Policy
 Gradient Methods, Proximal
@@ -9,7 +9,9 @@ Policy Gradient (DDPG), Twin Delayed Deep
 Deterministic Policy Gradient
 (TD3), Soft Actor-Critic (SAC).
 
-____________________________________________________________________________________________________________________________________________________________________________________________
+___ 
 
-🎥[Deep Q-Network(DQN)](https://www.youtube.com/watch?v=x83WmvbRa2I)
-🎥[Deep Deterministic Policy Gradient (DDPG):](https://www.youtube.com/watch?v=oydExwuuUCw)
+# resources 
+
+- 🎥 [Deep Q-Network(DQN)](https://www.youtube.com/watch?v=x83WmvbRa2I)
+- 🎥 [Deep Deterministic Policy Gradient (DDPG):](https://www.youtube.com/watch?v=oydExwuuUCw)
