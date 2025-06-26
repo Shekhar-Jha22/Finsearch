@@ -1,4 +1,4 @@
-markdown
+```markdown
 #APPLICATION IN A PROBLEM
 
 We are trying to solve the classic Inverted Pendulum control problem.
@@ -14,6 +14,6 @@ ChatGPT is your best friend if you need to understand what
 is going on in the code.
 
 
-#RESOURCES 
+#Resources
 
 -📚[Deep Deterministic Policy Gradient example](https://keras.io/examples/rl/ddpg_pendulum/)
