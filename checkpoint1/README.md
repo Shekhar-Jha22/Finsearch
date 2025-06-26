@@ -1,5 +1,4 @@
-INTRO TO RL
-AND DL
+# INTRO TO RL AND DL
 
 Reinforcement Learning:
 Reinforcement learning is a type of machine learning where an agent
@@ -13,6 +12,7 @@ complex patterns in large datasets. It is particularly effective in tasks
 such as image and speech recognition, natural language processing,
 and autonomous driving.
 
+___
 
 # Reinforcement Learning Resources
 
